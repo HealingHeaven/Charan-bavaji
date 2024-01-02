@@ -3,7 +3,7 @@
     I'm Pursuing Master's in Full Stack Development
     and I have built many projects front-end and backend-end🚀
 
-- 🔭 I’m currently working on Full Stack Development
+- 🔭 I’m currently focusing on Full Stack Development
 - 🧿 I'm good @ Frontend development (JS, React,Tailwindcss)
 - 🌱 I’m currently learning Backend (NodeJs and mongoDB)
 - 💬 Ask me about anything
